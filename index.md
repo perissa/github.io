@@ -1,6 +1,9 @@
 <html>
 <head>
 <style>
+ .samller-image{
+ width: 100px;
+ }
 div.container {
  width: 100%;
  border: 1px solid pink;
