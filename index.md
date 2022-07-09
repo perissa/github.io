@@ -38,7 +38,7 @@ article {
 <div class="container">
 <header>
  <h1>Penguin University - Department of Hospitality </h1>
- <link rel="stylesheet" type="image" href="images/logo.png">
+ <img src="images/logo.png" alt="applicable">
 </header>
  <nav>
  <ul>
