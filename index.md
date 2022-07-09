@@ -32,16 +32,16 @@ article {
  padding: 1em;
  overflow: hidden;
 }
-  .samller-image{
+.samller-image{
  width: 100px;
- height: 100px;
- }
+}
 </style>
 </head>
 <body>
 <div class="container">
 <header>
- <h1>Penguin University - Department of Hospitality </h1>  <img class="smaller-image" src="images/logo.png" alt="applicable">
+ <h1>Penguin University - Department of Hospitality </h1> 
+ <img class="smaller-image" src="images/logo.png" alt="">
 </header>
  <nav>
  <ul>
