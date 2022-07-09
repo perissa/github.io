@@ -34,11 +34,11 @@ article {
 }
 </style>
 </head>
-<link rel="shortcut icon" type="image" href="images/logo.png">
 <body>
 <div class="container">
 <header>
  <h1>Penguin University - Department of Hospitality </h1>
+ <link rel="shortcut icon" type="image" href="images/logo.png">
 </header>
  <nav>
  <ul>
