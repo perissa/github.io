@@ -56,7 +56,7 @@ article {
  <h1>About US</h1>
  <p>Penguin University is the leading higher educational institution offering affordable and quality programs to students all over the world. </p>
  <p>Department of Hospitality offering high quality undergraduate and post graduate degrees in the field of hospitality and busines management. </p>.
- <a href="https://www.youtube.com/watch?v=ijmgS6L6bt4">Introduction to Hospitality</a>
+ <a href="https://www.youtube.com/watch?v=ijmgS6L6bt4" target="_blank">Introduction to Hospitality</a>
 </article>
 <footer>Copyright &copy; Penguin University/ Department of Hospitality</footer>
 </div>
