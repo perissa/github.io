@@ -1,10 +1,12 @@
 <html>
-<head>
-<style>
- .samller-image{
+ <style>
+   .samller-image{
  width: 100px;
  height: 100px;
  }
+ </style>
+<head>
+<style>
 div.container {
  width: 100%;
  border: 1px solid pink;
