@@ -32,7 +32,7 @@ article {
  padding: 1em;
  overflow: hidden;
 }
-.smaller-image{
+.smaller-image {
  width: 100px;
 }
 </style>
