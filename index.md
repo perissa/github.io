@@ -34,6 +34,7 @@ article {
 }
 </style>
 </head>
+<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="applicable">
 <body>
 <div class="container">
 <header>
