@@ -2,7 +2,7 @@
 <head>
 <style>
  .samller-image{
- width: 100px;
+ width: 50px;
  }
 div.container {
  width: 100%;
