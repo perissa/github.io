@@ -1,10 +1,4 @@
 <html>
- <style>
-   .samller-image{
- width: 100px;
- height: 100px;
- }
- </style>
 <head>
 <style>
 div.container {
@@ -38,6 +32,10 @@ article {
  padding: 1em;
  overflow: hidden;
 }
+  .samller-image{
+ width: 100px;
+ height: 100px;
+ }
 </style>
 </head>
 <body>
