@@ -1,5 +1,5 @@
-<style>
-  body {
+
+  {
     background-color: black;
     font-family: monospace;
     color: green;
@@ -13,5 +13,5 @@
   .blue-text {
     color: blue;
   }
-</style>
+
 <h1 id="orange-text" class="pink-text blue-text">Penguin University!</h1>
