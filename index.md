@@ -1,3 +1,63 @@
+<css>
+div.container {
+ width: 100%;
+ border: 1px solid red;
+}
+header, footer {
+ padding: 1em;
+ color: black;
+ background-color: pink;
+ clear: left;
+ text-align: center;
+}
+nav {
+ float: left;
+ max-width: 160px;
+ margin: 0;
+ padding: 1em;
+}
+nav ul {
+ list-style-type: none;
+ padding: 0;
+}
+ 
+nav ul a {
+ text-decoration: none;
+}
+article {
+ margin-left: 170px;
+ border-left: 1px solid gray;
+ padding: 1em;
+ overflow: hidden;
+}
+
+.smaller-image{
+ width: 100px;
+}
+
+.slider{
+ width: 800px;
+ height: 400px;
+ background: url(../images/hospitality1.png);
+ margin: 100px auto;
+ animation: slide 20s infinite;
+}
+@keyframes slide{
+ 25%{
+ background: url(../images/hospitality2.jpg);
+ }
+ 50%{
+ background: url(../images/hospitality3.jpg);
+ }
+ 75%{
+ background: url(../images/hospitality4.jpg);
+ }
+ 100%{
+ background: url(../images/hospitality1.png);
+ }
+}
+ </css>
+
 <html lang="en">
  
 <head>
