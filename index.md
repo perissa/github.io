@@ -1,48 +1,26 @@
-<html>
-<head>
-<style>
-div.container {
- width: 100%;
- border: 1px solid pink;
-}
-header, footer {
- padding: 1em;
- color: white;
- background-color: pink;
- clear: left;
- text-align: center;
-}
-nav {
- float: left;
- max-width: 160px;
- margin: 0;
- padding: 1em;
-}
-nav ul {
- list-style-type: none;
- padding: 0;
-}
+<html lang="en">
  
-nav ul a {
- text-decoration: none;
-}
-article {
- margin-left: 170px;
- border-left: 1px solid gray;
- padding: 1em;
- overflow: hidden;
-}
-.smaller-image {
- width: 100px;
-}
-</style>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hospitality Department/Penguin University | HOME</title>
+    <link rel="shortcut icon" type="images" href="images/logo.png">
+ 
+  <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+ <!-- custom css file link  -->
+    <link rel="stylesheet" href="styles/style.css">
+ 
 </head>
+ 
 <body>
+ 
 <div class="container">
 <header>
- <h1>Penguin University - Department of Hospitality </h1> 
- <img class="smaller-image" src="images/logo.png" alt="">
+  <img class="smaller-image" src="images/logo.png" alt="">
+ <h1>Penguin University - Department of Hospitality </h1>
 </header>
+ 
  <nav>
  <ul>
  <li><a href="#">About US</a></li>
@@ -53,12 +31,29 @@ article {
  </ul>
 </nav>
 <article>
- <h1>About US</h1>
+ <h2>About US</h2>
  <p>Penguin University is the leading higher educational institution offering affordable and quality programs to students all over the world. </p>
- <p>Department of Hospitality offering high quality undergraduate and post graduate degrees in the field of hospitality and busines management. </p>.
- <a href="https://www.youtube.com/watch?v=ijmgS6L6bt4" target="_blank">Introduction to Hospitality</a>
+ <p>Department of Hospitality offering high quality undergraduate and post graduate degrees in the field of hospitality and busines management. </p>
 </article>
-<footer>Copyright &copy; Penguin University/ Department of Hospitality</footer>
-</div>
-</body></html>
+ 
+<iframe width="420" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4">
+</iframe>
+ 
+  <div class="slider">
+  </div>
+     
+ 
+<footer> 
+ <h3>Follow US</h3>
+                <a href="https://www.facebook.com"> <i class="fab fa-facebook-f"></i> Facebook </a>
+                <a href="https://www.twitter.com"> <i class="fab fa-twitter"></i> Twitter </a>
+                <a href="https://www.linkedin.com"> <i class="fab fa-linkedin"></i> Linkedin </a>
+                <a href="https://www.instagram.com"> <i class="fab fa-instagram"></i> Instagram </a>
+                <a href="https://www.youtube.com"> <i class="fab fa-youtube"></i> Youtube </a>
+ </footer>
+ 
+ <h4> Copyright &copy; Penguin University/ Department of Hospitality </h4>
+ 
+ </div>
+ </body></html>
 
