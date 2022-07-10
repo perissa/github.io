@@ -40,10 +40,10 @@
  <p>Department of Hospitality offering high quality undergraduate and post graduate degrees in the field of hospitality and busines management. </p> 
 </article>
  
-
- 
+<article>
   <div class="slider">
   </div>
+ </article>
      
  
 <footer> 
