@@ -42,8 +42,8 @@
  
 <article>
  <h2>Welcome to Our Program</h2>
-  <div class="slider">
-  </div>
+ <div class="slider">
+ </div>
  </article>
      
  
