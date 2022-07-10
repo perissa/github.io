@@ -36,7 +36,7 @@
  <p>Department of Hospitality offering high quality undergraduate and post graduate degrees in the field of hospitality and busines management. </p>
 </article>
  
-<iframe width="420" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4" title="Introduction to Hospitality">
+<iframe width="800" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4" title="Introduction to Hospitality">
 </iframe>
  
   <div class="slider">
