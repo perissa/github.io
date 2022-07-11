@@ -32,7 +32,7 @@
  
  <h4>online campus</h4>
 
-<form action="/action_page.php"><form style="display:inline;">
+<form action="/action_page.php" style="display:inline;">
   <label for="uname">username:</label><br>
   <input type="text" id="uname" name="uname" value=" "><br>
   <label for="password">password:</label><br>
