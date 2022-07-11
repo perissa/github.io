@@ -30,13 +30,13 @@
  <li><a href="#">Contact US</a></li>
  </ul>
  
- <h4>Application Forms</h4>
+ <h4>online campus</h4>
 
 <form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="Nick"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Papadoplos"><br><br>
+  <label for="uname">username:</label><br>
+  <input type="text" id="uname" name="uname" value=" "><br>
+  <label for="password">password:</label><br>
+  <input type="text" id="password" name="password" value=" "><br><br>
   <input type="submit" value="Submit">
 </form>
  
