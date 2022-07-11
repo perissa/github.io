@@ -34,10 +34,10 @@
 
 <form action="/action_page.php">
   <label for="uname">username:</label><br>
-  <input type="text" id="uname" name="uname" value=" "><br>
+  <input style="height:30px; width:150px" type="text" id="uname" name="uname" value=" "><br>
   <label for="password">password:</label><br>
   <input style="height:30px; width:150px" type="text" id="password" name="password" value=" "><br><br>
-  <input style="height:30px; width:150px" type="submit" value="Submit">
+  <input type="submit" value="Submit">
 </form>
  
 </nav>
