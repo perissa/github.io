@@ -39,6 +39,8 @@
   <input style="height:30px; width:150px" type="text" id="password" name="password" value=" "><br><br>
   <input type="submit" value="Submit">
 </form>
+  
+<img class="heart" src="images/heart.jpg" alt="">
  
 </nav>
  
