@@ -54,13 +54,10 @@ div.container {
     }
    }
 .heart {
-    background-color: white;
-    height: 30px;
-    width: 30px;
-    border-radius: 50%;
-    animation-iteration-count: infinite;
+    animation-name: twinkle;
+    animation-duration: 1s;
   }
-@keyframes heart {
+@keyframes twinkle {
     20% {
       transform: scale(0.5);
       opacity: 0.5;
