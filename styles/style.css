@@ -5,6 +5,7 @@ h1 {
   }
 h2 {
     font-family: monospace;
+    color: grey;
   }
 div.container {
     width: 100%;
