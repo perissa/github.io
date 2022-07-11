@@ -36,8 +36,8 @@
   <label for="uname">username:</label><br>
   <input type="text" id="uname" name="uname" value=" "><br>
   <label for="password">password:</label><br>
-  <input style="height:30px; width:100px" type="text" id="password" name="password" value=" "><br><br>
-  <input type="submit" value="Submit">
+  <input style="height:30px; width:150px" type="text" id="password" name="password" value=" "><br><br>
+  <input style="height:30px; width:150px" type="submit" value="Submit">
 </form>
  
 </nav>
