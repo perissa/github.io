@@ -53,3 +53,8 @@ div.container {
     background: url(../images/hospitality1.png);
     }
    }
+h2 {
+    font-family: monospace;
+    color: solid gray;
+   }
+    
