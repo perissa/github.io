@@ -1,11 +1,11 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 h1 {
     font-family: Lobster;
-    color: grey;
+    color: gray;
   }
 h2 {
     font-family: monospace;
-    color: grey;
+    color: gray;
   }
 div.container {
     width: 100%;
