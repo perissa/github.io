@@ -1,14 +1,11 @@
-h1{
-    font-family: monospace;
-    color: gray;
-   }
+
 div.container {
     width: 100%;
     border: 1px solid red;
    }
    header, footer {
     padding: 1em;
-    color: black;
+    color: gray;
     background-color: pink;
     clear: left;
     text-align: center;
