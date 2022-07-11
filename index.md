@@ -29,7 +29,7 @@
  <li><a href="#">News</a></li>
  <li><a href="#">Contact US</a></li>
  </ul>
- <article>
+ 
  <h4>Application Forms</h4>
 
 <form action="/action_page.php">
@@ -39,7 +39,7 @@
   <input type="text" id="lname" name="lname" value="Papadoplos"><br><br>
   <input type="submit" value="Submit">
 </form>
-  </article>
+ 
 </nav>
  
 
