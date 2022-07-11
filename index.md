@@ -29,9 +29,8 @@
  <li><a href="#">News</a></li>
  <li><a href="#">Contact US</a></li>
  </ul>
-</nav>
- 
-<h2>Application Forms</h2>
+  
+ <h3>Application Forms</h3>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
@@ -40,6 +39,9 @@
   <input type="text" id="lname" name="lname" value="Papadoplos"><br><br>
   <input type="submit" value="Submit">
 </form> 
+</nav>
+ 
+
 
  
 <article>
