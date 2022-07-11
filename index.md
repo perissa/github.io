@@ -31,12 +31,16 @@
  </ul>
 </nav>
  
-<aside>
-<form>
-  <input type="text" placeholder="apply" required>
-   <button type="submit">Submit</button>
- </form>
-</aside>
+<h2>Application Forms</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="Nick"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Papadoplos"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
  
 <article>
  <iframe width="700" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4" title="Introduction to Hospitality">
