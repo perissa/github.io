@@ -29,6 +29,8 @@
  <li><a href="#">News</a></li>
  <li><a href="#">Contact US</a></li>
  </ul>
+ <input type="text" placeholder="apply" required>
+    <button type="submit">Submit</button>
 </nav>
 <article>
  <iframe width="800" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4" title="Introduction to Hospitality">
