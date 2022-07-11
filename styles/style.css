@@ -3,6 +3,9 @@ h1 {
     font-family: Lobster;
     color: grey;
   }
+h2 {
+    font-family: monospace;
+  }
 div.container {
     width: 100%;
     border: 1px solid red;
