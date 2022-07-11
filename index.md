@@ -35,7 +35,8 @@
 <form>
   <input type="text" placeholder="apply" required>
    <button type="submit">Submit</button>
- </form></aside>
+ </form>
+</aside>
  
 <article>
  <iframe width="700" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4" title="Introduction to Hospitality">
